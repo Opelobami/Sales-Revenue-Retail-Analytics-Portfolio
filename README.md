@@ -6,7 +6,7 @@ Pipelines lie. Not on purpose, but a number that looks healthy on a dashboard ca
 
 ---
 
-## About This Portfolio  
+## 💼 About This Portfolio  
 
 This portfolio reflects my ability to: 
 - Separate what looks like performance from what actually is
@@ -15,7 +15,7 @@ This portfolio reflects my ability to:
 
 ---
 
-## Featured Projects
+## 🧩 Featured Projects
 
 ### Global Electronics Retailer  
 **Comprehensive analysis of global sales performance, customer behavior, product trends, and store efficiency.**  
