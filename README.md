@@ -47,7 +47,7 @@ This project transforms retail data into actionable insights to:
 
 - **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
 - **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/16wMfe288hLWujMVQWpogLDoZJrtWNIaA?usp=drive_link)
-- **Repository:** [View Project →](https://github.com/Opelobami/Enterprise-Sales-Pipeline-Analytics)
+- **Repository:** [View Project →](https://github.com/Opelobami/Omnichannel-Holiday-Retail-Analytics)
 
 ---
 
